@@ -20,3 +20,19 @@ IntelliJ IDEA u otro entorno de desarrollo compatible con Java.
 Biblioteca Gson:
 
 Descarga el archivo gson-2.x.jar desde Gson Releases.
+
+Cómo ejecutar el proyecto
+
+Abre el proyecto en IntelliJ IDEA.
+
+Asegúrate de que todas las dependencias estén configuradas correctamente.
+
+Ejecuta la clase Main.
+
+Mejoras futuras
+
+Implementar una interfaz gráfica para el conversor.
+
+Soporte para más monedas configuradas dinámicamente.
+
+Guardar un historial de conversiones realizadas por el usuario.
